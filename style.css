@@ -1,0 +1,35 @@
+body {
+  background-color: #F5F5DC; /* bege claro */
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.importante {
+  color: #006400; /* verde escuro */
+  font-weight: bold;
+}
+
+.imagens {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #228B22; /* verde floresta */
+  color: white;
+  padding: 20px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
